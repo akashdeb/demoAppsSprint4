@@ -10,6 +10,8 @@ public class Democlass {
 		System.out.println("This is a code added by someone else");
 
 
+		
+		
 	}
 
 }
