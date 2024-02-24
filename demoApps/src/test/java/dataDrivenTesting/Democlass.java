@@ -8,8 +8,13 @@ public class Democlass {
 		
 		System.out.println("This added by TE 1 after vacation");
 		System.out.println("This is a code added by someone else");
+		System.out.println("This is a code added by someone else");
+
+		System.out.println("This is a code added by someone else");
 
 
+		
+		
 	}
 
 }
